@@ -106,7 +106,7 @@ header{
   left: 0;
   right: 0;
   margin: 0em auto 0 auto;
-  background: url(../images/test_logo.png) center/auto 80% no-repeat, url(../images/header_trapezoid.png) center/contain no-repeat;
+  background: url(../images/test_logo.png) center/auto 100% no-repeat, url(../images/header_trapezoid.png) center/contain no-repeat;
   display:inline;
   width: 290px;
   min-width:290px;
